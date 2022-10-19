@@ -1,0 +1,2 @@
+# mynewself
+something about myself
